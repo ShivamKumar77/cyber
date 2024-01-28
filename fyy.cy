@@ -1,0 +1,7 @@
+Read
+This article introduces some very basic types of malicious content which may harm your PC  in some way or the other.. The Threat The computer systems may become a victim of virus, worm, hacking etc types of attacks. The computer systems may crash, sensitive data can be stolen and misused or driver problems may arise in few cases Who may do it It is the Hacker: someone who seeks and exploits weaknesses in a computer system or computer network. They are the malicious programmers. They have excellent programming skills and design a bug which gets embedded in the pc and cause it to malfunction. Types of Infections: There are many types of infections that may affect a pc performance and functionality. Some of the major infections are: Virus: Small pieces of software that attach themselves to real programs.
+
+The term “virus” is also commonly but erroneously used to refer to other types of malware, adware, and spyware programs that do not have the reproductive ability.
+A true virus can spread from one computer to another (in some form of executable code).
+Viruses can increase their chances of spreading on to other computers by infecting files on a network file system or a file system that is accessed by another computer.
+Viruses always mostly corrupt or modify system files on the targeted computer.
